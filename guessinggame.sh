@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 function get_file_count {
     local count=$(ls -A | wc -l)
